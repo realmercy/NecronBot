@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord.js": "^13.6.0"
+  },
+  "scripts": { "test": "echo penis", "start": "node index.js" },
+  "engines": { "node": "16.x" }
+}
