@@ -6,6 +6,6 @@
     "@discordjs/rest": "^0.3.0",
     "discord.js": "^13.6.0"
   },
-  "scripts": { "test": "echo penis", "start": "node index.js" },
+  "scripts": { "test": "echo penis", "start": "node index.js", "deploy": "node deploy.js" },
   "engines": { "node": "16.x" }
 }
